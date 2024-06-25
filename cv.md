@@ -15,3 +15,7 @@ function addSomething(){
 
 - https://rassvet.help
 - https://chin-chin-auto.ru
+
+DSTU
+
+Intermediate
